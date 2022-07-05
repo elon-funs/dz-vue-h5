@@ -1,0 +1,27 @@
+{
+    "zh100":[
+        "location is empty","name is empty","account is empty","bank is empty","bank branch/branch is empty","withdrawal type is empty","no withdrawal account, please bind first","change withdrawal account is failed",
+        "withdrawal request is pending，can't change bank account","please enter the correct name","please enter the correct bank card","please enter WeChat account","please enter Alipay account","withdrawal account already exists",
+        "Phone number format is not correct","account is disabled","area not valid","phone number is empty","phone number already exists","phone number doesn't exist",
+        "sending file is empty","SMS verification code is empty","verification failed，the code has expired","verification code error","referral code to match the user doesn't exist",
+        "password is empty","password you set is too simple","member ID is empty","start time is empty","task doesn’t exist","received task have been earnings","the limit of person's for task has been reached",
+        "membership level doesn't conform","today your received task has been reached the limit","received task has failed","End time is empty","start time cannot be greater than end time"," the representative doesn't exist",
+        "Incorrect start time or end time format","Please complete the required tasks first","invitation code is empty","invalid user","nickname empty","nickname contains characters invalid","nickname already exists",
+        "content is empty","picture is empty","maximus 9 pictures","can't fill in your own invitation code",
+        "invitation code filled","invalid invitation code","cannot use low level invitation code","user information doesn't exist","representative ID is empty","member ID is empty","recharge method is empty can't supported","recharge amount is empty",
+        "actual amount received is empty","actual amount received should be greater than 0","receive bank card is empty, please contact customer service"," ID user is empty","level is empty","level lock is empty","member level is duplicate"," level deploy is error",
+        "wrong password","account to be migrated doesn't exist","receive migration account doesn't exist","member credit score initialization failed","date parameter error","payment setting doesn't exist","unauthorized access","the account has been deleted",
+        "path is SMS not available"
+    ],
+    "zh995":["amount must be greater than 0","only positive can be enter","parameter is empty","type is empty","parameter error","system parameter abnormal"],
+    "zh1101":["Alipay、Wechat、QQ must be have 1","user doesn’t exist","withdrawal account is empty","withdrawal amount is empty","withdrawal amount cannot be negative","user type doesn't provide withdrawal function",
+        "withdrawal amount cannot be a decimal","The format of open time or closer time is incorrect","Receive account doesn’t exist",
+        "the current channel is busy, please try other channels","payment setting doesn’t exist","maximum length of the name is 10",
+        "recharge amount exceeds maximum recharge amount limit","recharge amount is low than the minimum recharge amount limit","The receiving account has been disabled",
+        "the order are not unpaid ","purchased level doesn't exist","amount to purchase level is error"
+    ],
+    "zh1130":["account doesn’t exist","account/password is error","number of failed login has reached the maximum limit，please try again in 12 hours。You can also use SMS to log in or retrieve password"],
+    "zh11000":["the user doesn't need to set fund password","incorrect fund password","fund password is empty"],
+    "zh10003":["purchase level is empty","Order failed"],
+    "zh11004":["withdrawal amount less than the first minimum withdrawal amount","withdrawal amount greater than the first maximum withdrawal amount","insufficient account balance","exceed number of withdrawals today","Your balance is less than the full amount to be withdrawn"]
+}

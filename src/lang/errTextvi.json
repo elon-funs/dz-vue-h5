@@ -1,0 +1,27 @@
+{
+    "zh101":[
+        "vị trí còn trống","tên họ còn trống","tài khoản còn trống","ngân hàng còn trống","chi nhánh ngân hàng còn trống","loại số tiền rút còn trống","không có số tài khoản rút tiền, vui lòng liên kết","sửa đổi tài khoản rút tiền thất bại",
+        "lệnh rút tiền đang tiền hành, không thể thay đổi tài khoản ngân hàng","vui lòng nhập tên chính xác","vui lòng nhập đúng thẻ ngân hàng","ui lòng nhập tài khoản WeChat","vui lòng nhập tài khoản Alipay","tài khoản rút tiền đã tồn tại",
+        "định dạng số điện thoại không đúng","tài khoản vô hiệu hóa","khu vực không hợp lệ","số điện thoại còn trống","số điện thoại đã tồn tại","số điện thoại không tồn tại",
+        "các loại gửi đi còn trống","mã xác minh từ SMS còn trống","xác minh thất bại，mã xác minh đã hết hạn","mã xác minh bị lỗi","mã giới thiệu đối chiếu với người dùng không tồn tại",
+        "mật khẩu còn trống","mật khẩu của bạn đặt quá đơn giản","danh tính thành viên còn trống","thời gian bắt đầu còn trống","nhiệm vụ không tồn tại","nhiệm vụ đã được nhận thu nhập xong","đã đạt đến giới hạn nhiệm vụ được làm của mỗi người",
+        "cấp độ thành viên không phù hợp","nhiệm vụ bạn nhận được hôm nay đã đạt đến giới hạn","nhiêm vụ nhận được thất bại","thời gian kết thúc còn trống","thời gian bắt đầu không thể lớn hơn thời gian kết thúc","người đại diện không tồn tại",
+        "định dạng thời gian bắt đầu và thời gian kết thúc không chính xác","vui lòng hoàn thành nhiệm vụ được yêu cầu trước","mã giới thiệu còn trống","người dùng không hợp lệ","biệt hiệu còn trống","biệt hiệu chứa ký tự không hợp lệ","tên biệt hiệu đã tồn tại",
+        "nội dụng còn trống","hình ảnh còn trống","tối đa 9 tấm hình ảnh","không thể điền mã giới thiệu của bản thân",
+        "đã điền vào mã giới thiệu","mã giới thiệu không hợp lệ","không được sử dụng mã giới thiệu cấp dưới","thông tin người dùng không tồn tại","danh tính người đại diện còn trống","số danh tính hội viên còn trống","phương thức thanh toán bỏ trống và không được hỗ trợ","số tiền cần nạp còn trống",
+        "số tiền thực nhận đến tài khoản còn trống","số tiền thực nhận đến tài khoản phải lớn hơn 0","thẻ ngân hàng thanh toán còn trống，xin liên hệ tư vấn","ID người dùng còn trống","cấp độ còn trống","khóa cấp độ còn trống","cấp độ hội viên trùng lặp","sắp xếp cấp độ bị lỗi",
+        "sai mật khẩu","tài khoản được di chuyển không tồn tại","tài khoản bị di chuyển không tồn tại","khởi tạo điểm tín dụng hội viên thất bại","thông số ngày tháng bị lỗi","cài đặt thanh toán không tồn tại","truy cập trái phép","tài khoản tạo đã bị xóa",
+        "không thể sử dụng đường dẫn SMS"
+    ],
+    "zh995":["số tiền bắt buộc phải lớn hơn 0","chỉ có thể nhập số nguyên dương","thông số còn trống","phân loại để trống","phân loại bị lỗi","thông số hệ thống bất thường"],
+    "zh1101":["Alipay、Wechat、QQ cần thiết 1 cái","người dùng không tồn tại","tài khoản rút tiền còn trống","số tiền cần rút còn trống","số tiền cần rút không thể là số âm","phân loại người dùng không cung cấp chức năng rút tiền",
+        "số tiền rút không được là số thập phân","định dạng thời gian mở cửa hoặc thời gian đóng cửa không chính xác","tài khoản người nhận không tồn tại",
+        "kênh hiện tại đang bận, vui lòng thử các kênh khác","cài đặt thanh toán không tồn tại","độ dài tên người gửi không được vượt quá 10 từ",
+        "số tiền nạp vượt quá giới hạn tối đa cho phép","Số tiền nạp thấp hơn giới hạn tối thiểu cho phép","tài khoản nhận tiền đã bị vô hiệu quả",
+        "vẫn còn đơn hàng chưa thanh toán","cấp độ cần mua không tồn tại","số tiền cần mua cấp độ bị lỗi"
+    ],
+    "zh1130":["tài khoản không tồn tại","tài khoản/mật khẩu bị lỗi","Số lần đăng nhập không thành công đã đạt đến giới hạn tối đa，xin vui lòng thử lại sau 12 tiếng。Bạn cũng có thể sử dụng SMS để đăng nhập hoặc lấy lại mật khẩu của mình"],
+    "zh11000":["người dùng không sử dụng cài đặt mật khẩu quỹ tiền","mật khẩu quỹ tiền không chính xác","mật khẩu quỹ tiền còn trống"],
+    "zh10003":["cấp độ cần mua còn trống","đặt hành thất bại"],
+    "zh11004":["Số tiền rút ít hơn số rút tối thiểu đầu tiên","Số tiền rút lớn hơn số rút tối đa đầu tiên","Số dư tài khoản không đủ","Vượt quá số lần rút tiền hôm nay","Số dư của bạn ít số tiền toàn bộ cần rút"]
+}
